@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **.NET and open-source**
 
-- 🤝 I’m looking for help with **JavaScript and TypeScript related issues**
-
 - 👨‍💻 All of my projects are available at [https://kurlaserver.nl](https://kurlaserver.nl)
 
 - 💬 Ask me about **Angular and LDAP**

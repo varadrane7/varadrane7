@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadrane7&label=Profile%20Views&color=0e75b6&style=flat" alt="varadrane7" /> </p>
 
-- 🔭 I’m currently working on **a video player using ffmpeg.wasm**
+- 🔭 I’m currently working on **a Dashboard for API Metrics**
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **.NET and open-source**
 
 - 👨‍💻 All of my projects are available at [https://kurlaserver.nl](https://kurlaserver.nl)
 
-- 💬 Ask me about **Angular and LDAP**
+- 💬 Ask me about **Self-Hosting**
 
 - 📫 How to reach me **varadrane7@gmail.com**
 
-- ⚡ Fun fact **Mount Everest is the highest, but the tallest is actually Mauna Kea in Hawaii.**
+- ⚡ Fun fact **You don't need Cloud to scale your for your 4 users horizontally.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
